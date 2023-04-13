@@ -1,0 +1,15 @@
+.app {
+    
+}
+
+.navStyles {
+    font-size: 16px;
+}
+
+.body {
+    background-color: white;
+}
+
+body {
+    background-color: inherit;
+  }
